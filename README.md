@@ -10,7 +10,7 @@
 - ✨ Bootcamp Live SPA - https://k9goldenyearsfoundation.netlify.app/ 
 
 
-- 📫 How to reach me - danjdeguire@gmail.com or 314.799.9231.
+- 📫 How to reach me - danjdeguire@outlook.com or 314.799.9231.
 
 
 <!---
