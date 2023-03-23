@@ -7,7 +7,7 @@
 - 🏫 Graduated Savvy Coders Bootcamping November 2021
 - 🧰 Mongo DB University starting November 2021.
 
-- ✨ Bootcamp Live SPA - dandeguire.com 
+- ✨ Bootcamp Live SPA - http://dandeguire.com 
 
 - 📫 How to reach me - danjdeguire@outlook.com or 314.799.9231.
 
