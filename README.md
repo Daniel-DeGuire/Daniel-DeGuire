@@ -2,9 +2,9 @@
 - 👀 I’m interested in 🎮 gaming, 🥾 hiking (🌲 National Forrest volunteer), 🥕 gardening, and 🔌 learning.
 
 
-- 🌱 I’m currently learning HTML, Javascript, and CSS at Savvy Coders.
+- 🌱 I’m currently learning Javascript Algorithms & Data Structures at freeCodeCamp.com 
 
-- 🏫 Graduating Savvy Coders Bootcamping November 2021
+- 🏫 Graduated Savvy Coders Bootcamping November 2021
 - 🧰 Mongo DB University starting November 2021.
 
 - ✨ Bootcamp Live SPA - https://k9goldenyearsfoundation.netlify.app/ 
