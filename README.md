@@ -9,7 +9,7 @@
 
 - ✨ Bootcamp Live SPA - http://dandeguire.com 
 
-- 📫 How to reach me - danjdeguire@outlook.com or 314.799.9231.
+- 📫 How to reach me - connect@dandeguire.com or 314.799.9231.
 
 
 <!---
